@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/logement/static/css/main.4c14a576.css",
-    "main.js": "/logement/static/js/main.b3de963d.js",
+    "main.js": "/logement/static/js/main.7bf0633a.js",
     "static/js/787.23d9b7ed.chunk.js": "/logement/static/js/787.23d9b7ed.chunk.js",
     "index.html": "/logement/index.html",
     "main.4c14a576.css.map": "/logement/static/css/main.4c14a576.css.map",
-    "main.b3de963d.js.map": "/logement/static/js/main.b3de963d.js.map",
+    "main.7bf0633a.js.map": "/logement/static/js/main.7bf0633a.js.map",
     "787.23d9b7ed.chunk.js.map": "/logement/static/js/787.23d9b7ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c14a576.css",
-    "static/js/main.b3de963d.js"
+    "static/js/main.7bf0633a.js"
   ]
 }
