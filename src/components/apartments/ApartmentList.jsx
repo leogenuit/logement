@@ -17,6 +17,7 @@ export default function ApartmentList() {
       <h1 className={style.title}>Liste des appartements</h1>
       <div className={style.container}>
         <div className={style.cardList}>
+          <p></p>
           {apartments.map((apartment) => (
             <div className={style.card} key={apartment._id}>
               <img className={style.img} src={apartment.img} alt="apartment" />
